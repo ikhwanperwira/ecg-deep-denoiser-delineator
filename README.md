@@ -34,17 +34,11 @@ This project focuses on ECG denoising and delineation using deep learning techni
 
 ## Delineation
 - **Preprocessing:**
-  """
   Preprocesses the delineation data locally for training purposes.
 
   This function performs preprocessing on the delineation data and returns the results in two formats:
   - .npz: A compressed file format that stores multiple NumPy arrays.
   - .pkl: A pickle file that serializes Python objects.
-
-  Returns:
-    npz: A compressed file containing the preprocessed NumPy arrays.
-    pkl: A pickle file containing the serialized preprocessed data.
-  """
 
 - **Training:**
   Follow the training notebook available on Kaggle:
