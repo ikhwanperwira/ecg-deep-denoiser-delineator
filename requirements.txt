@@ -1,0 +1,9 @@
+numpy
+tensorflow
+keras
+pandas
+scipy
+wfdb
+matplotlib
+pycm
+openpyxl
